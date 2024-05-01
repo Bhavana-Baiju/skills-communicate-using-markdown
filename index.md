@@ -4,3 +4,6 @@
 #### Are you ready
 ##### Let's go
 ###### okey
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
